@@ -186,11 +186,11 @@ public class LoginForm extends javax.swing.JFrame {
 
     private void jLoginButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jLoginButtonActionPerformed
         // TODO add your handling code here:
-        String username= "Bowo";
-        String password= "Depok";
+        String username= "Anggita";
+        String password= "Bogor";
         if (username.equalsIgnoreCase(jUsenameField.getText()) && password.equalsIgnoreCase(jPasswordField1.getText()))
         {
-            JOptionPane.showMessageDialog(this, "You are Log in, Hi Bowo!");
+            JOptionPane.showMessageDialog(this, "You are Log in, Hi Anggita!");
             this.setVisible(false);
             new Customer().setVisible(true);
 

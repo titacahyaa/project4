@@ -66,7 +66,7 @@
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" alignment="0" attributes="0">
-                  <EmptySpace pref="266" max="32767" attributes="0"/>
+                  <EmptySpace pref="265" max="32767" attributes="0"/>
                   <Component id="jLabel1" min="-2" pref="101" max="-2" attributes="0"/>
                   <EmptySpace min="-2" pref="193" max="-2" attributes="0"/>
                   <Component id="jMinLogin" min="-2" pref="20" max="-2" attributes="0"/>
