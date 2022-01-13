@@ -361,13 +361,13 @@ public class billingPet extends javax.swing.JFrame implements BlueprintInter{
     private void CalculateActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_CalculateActionPerformed
         // TODO add your handling code here:
         int total;
-        int subtotal1=500000;
-        int subtotal2=300000;
-        int subtotal3=450000;
-        int subtotal4=800000;
-        int subtotal5=950000;
-        int subtotal6=750000;
-        int subtotal7=1250000;
+        int subtotal1=600000;
+        int subtotal2=400000;
+        int subtotal3=550000;
+        int subtotal4=900000;
+        int subtotal5=1050000;
+        int subtotal6=850000;
+        int subtotal7=1350000;
         //final double TAXRATE = 0;
         //double tax;
         if (jBreeding.isSelected()){
