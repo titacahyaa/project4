@@ -165,7 +165,7 @@ public class billingPet extends javax.swing.JFrame implements BlueprintInter{
         jPanel3.setLayout(null);
 
         jBreeding.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jBreeding.setText("Breeding      Rp.500.000");
+        jBreeding.setText("Breeding      Rp.600.000");
         jBreeding.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
         jBreeding.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -174,11 +174,11 @@ public class billingPet extends javax.swing.JFrame implements BlueprintInter{
         });
 
         jGrooming.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jGrooming.setText("Grooming   Rp.300.000");
+        jGrooming.setText("Grooming   Rp.400.000");
         jGrooming.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
         jVet.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
-        jVet.setText("Vet            Rp450.000");
+        jVet.setText("Vet            Rp550.000");
         jVet.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
 
         jTotal.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
